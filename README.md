@@ -27,5 +27,3 @@ David Henrique
  
 
 </div>
-
-![ Animação de cobra ](https://github.com/davidhenrique2106/davidhenrique2106/blob/output/github-contribution-grid-snake.svg)
