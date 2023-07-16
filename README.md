@@ -2,7 +2,8 @@
 David Henrique
 <div></divd>
 
- 👨🏽‍💻 Graduando em Gestão da Informação - UFPE
+ 👨🏽‍💻 Graduando em Sistemas para internet - UNICAP
+ 👨🏽‍💻 Graduando em Ciência da Computação - Uniámerica 
 
 <div align="center">
   <a href="https://github.com/davidhenrique2106">
