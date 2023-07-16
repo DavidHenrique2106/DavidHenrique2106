@@ -1,9 +1,11 @@
 
-David Henrique
+Olá, sou David Henrique!
 <div></divd>
 
  👨🏽‍💻 Graduando em Sistemas para internet - UNICAP <br>
  👨🏽‍💻 Graduando em Ciência da Computação - UniAmérica
+
+
 
 <div align="center">
   <a href="https://github.com/davidhenrique2106">
