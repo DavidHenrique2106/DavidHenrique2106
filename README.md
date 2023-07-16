@@ -2,7 +2,7 @@
 David Henrique
 <div></divd>
 
- 👨🏽‍💻 Graduando em Sistemas para internet - UNICAP <b>
+ 👨🏽‍💻 Graduando em Sistemas para internet - UNICAP <br>
  👨🏽‍💻 Graduando em Ciência da Computação - Uniámerica 
 
 <div align="center">
