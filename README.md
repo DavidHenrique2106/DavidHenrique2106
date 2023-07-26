@@ -1,7 +1,7 @@
 ### Olá, meu nome é David Henrique
 
 ```css
-Desenvolvedora Full Stack Jr
+Desenvolvedor Full Stack Jr
 ```
 
 <p>Sou apaixonado por tecnologia e atualmente estudo Sistemas para Internet na UNICAP e Ciência da Informação na UFPE. Sou uma pessoa muito curioso e comunicativo, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>
