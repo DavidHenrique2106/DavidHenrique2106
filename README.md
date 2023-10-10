@@ -45,7 +45,6 @@ class Programmer
 
 <p></p>
    
-```ruby
-  end
-end
+```java
+  Scanner.close();
 ```
