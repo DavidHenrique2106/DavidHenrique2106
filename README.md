@@ -8,8 +8,6 @@ Desenvolvedor Full Stack Jr
 
 ```java
 Public class David{
-  public static void main(String[] args{
-  }
 }
 ```
 <h3 align="left">Social:</h3>
