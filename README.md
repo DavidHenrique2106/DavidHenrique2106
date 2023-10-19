@@ -43,6 +43,11 @@ Public class David{}
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidhenrique2106&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+ <div align="center"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=agedanna&theme=radical&border_radius=5"/></div>
+
+
+<br>
+
 <p></p>
    
 ```java
