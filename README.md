@@ -43,7 +43,7 @@ Public class David{}
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidhenrique2106&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <div align="center"><img height="150em" src="https://github.com/DavidHenrique2106/DavidHenrique2106/blob/main/README.md?plain=1border_radius=5"/></div>
+ <div align="center"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=DavidHenrique2106&theme=radical&border_radius=5"/></div>
 
 
 <br>
