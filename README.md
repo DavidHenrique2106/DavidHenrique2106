@@ -8,7 +8,8 @@ Desenvolvedor Full Stack Jr
 
 ```java
 Public class David{
-System.out.printLn("Olá mundo")}
+System.out.printLn("Olá mundo")
+}
 ```
 <h3 align="left">Social:</h3>
   <div>
