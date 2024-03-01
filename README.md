@@ -8,7 +8,9 @@ Desenvolvedor Full Stack Jr
 
 ```java
 Public class David {
+    public static void main(String[] args) {
     System.out.printLn("Olá mundo")
+    }
 }
 ```
 <h3 align="left">Social:</h3>
