@@ -31,6 +31,7 @@ Public class David {
   <img align="center" alt="david-JAVA" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="david-NEXTJS" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
   <img align="center" alt="david-SPRINGBOOT" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
+  <img align="center" alt="david-FLUTTER" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="david-JAVASCRIPT" height="45" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="david-TYPESCRIPT" height="45" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" aly="david-React" height="45 width="35  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
