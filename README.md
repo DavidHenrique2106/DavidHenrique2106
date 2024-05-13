@@ -6,12 +6,35 @@ Desenvolvedor Full Stack Jr
 
 <p>Sou apaixonado por tecnologia e atualmente estudo Sistemas para Internet na Universidade Católica de Pernambuco e Ciência da Computação na Uniámerica. Sou um garoto muito curioso e comunicativo, adoro conversar sobre as infinitas possibilidades que existem nesse mundo dos códigos. Aqui, estou registrando uma parte do meu processo de aprendizagem. </p><br/>
 
-```java
-Public class David {
-    public static void main(String[] args) {
-    System.out.printLn("Olá mundo")
-    }
-}
+```TypeScript
+'use client'
+
+import React from 'react';
+import Head from 'next/head';
+
+const HomePage: React.FC = () => {
+  return (
+    <div>
+      <Head>
+        <title>David Henrique - Software Developer</title>
+        <meta name="description" content="David Henrique - Software Developer" />
+      </Head>
+
+      <main>
+        <h1>Olá, sou David Henrique</h1>
+        <p>Sou um desenvolvedor de software apaixonado por criar soluções inovadoras.</p>
+        <p>Com foco em TypeScript, Next.js e Express!</p>
+      </main>
+
+      <footer>
+        <p>Entre em contato: dh210605@gmail.com.com</p>
+      </footer>
+    </div>
+  );
+};
+
+export default HomePage;
+
 ```
 <h3 align="left">Social:</h3>
   <div>
