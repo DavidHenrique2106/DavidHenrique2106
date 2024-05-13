@@ -17,7 +17,6 @@ const HomePage: React.FC = () => {
     <div>
       <Head>
         <title>David Henrique - Software Developer</title>
-        <meta name="description" content="David Henrique - Software Developer" />
       </Head>
 
       <main>
@@ -28,6 +27,7 @@ const HomePage: React.FC = () => {
 
       <footer>
         <p>Entre em contato: dh210605@gmail.com.com</p>
+        <p> (81)98318-1645 </p>
       </footer>
     </div>
   );
