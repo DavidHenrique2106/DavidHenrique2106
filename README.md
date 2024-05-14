@@ -5,8 +5,6 @@
 
 Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Aqui você encontrará projetos e contribuições focados em aplicações Full-Stacks.
 
-![Visitas no perfil](https://visitor-badge.glitch.me/badge?page_id=DavidHenrique2106.DavidHenrique2106)
-
 ## 🚀 Tecnologias
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
