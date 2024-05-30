@@ -1,7 +1,7 @@
 <!-- Adiciona um formato de onda ciano -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00C7C7&height=200&section=header&text=David%20Henrique&fontSize=60&fontColor=ffffff)
 
-# 👋 Olá! Eu sou David Henrique
+# 👋 One Software Engineer
 
 Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Aqui você encontrará projetos e contribuições focados em aplicações Full-Stacks.
 
