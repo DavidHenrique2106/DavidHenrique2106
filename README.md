@@ -32,9 +32,10 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor apaixonado por tecnologia e
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidHenrique2106&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7" alt="Estatísticas do GitHub de David Henrique" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHenrique2106&layout=compact&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7" alt="Linguagens mais usadas por David Henrique" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidHenrique2106&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800" alt="Estatísticas do GitHub de David Henrique" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHenrique2106&layout=compact&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800" alt="Linguagens mais usadas por David Henrique" />
 </p>
+
 
 ## 📫 Contact
 
